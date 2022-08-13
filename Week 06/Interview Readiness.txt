@@ -1,0 +1,21 @@
+What is Normalization and how does Normalization make training a model more stable?
+	Takes values and plot them on a different scale to be more uniform and easier for ML/AI to work with
+
+What are loss and optimizer functions and how do they work?
+	Loss: Like a golf scoring system for ML. It will determine your accuracy, with lower scores being better.
+	Optimizer: changes the attributes of a NN EI weights, epochs, learning rates to improve accuracy
+
+
+What is Gradient Descent and how does it work?
+	Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function.
+
+What is an activation function?
+	Defines what the output of a node will be given its inputs
+
+What are the outputs of the following activation functions: ReLU, Softmax Tanh, Sigmoid
+
+What is the TPOT algorithm and how does it work?
+	TPOT uses genetic programming to design optimal pipelines.
+
+What does TPOT stand for?
+	Tree Based Pipeline Optimization Tool

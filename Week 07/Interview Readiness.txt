@@ -1,0 +1,22 @@
+Is SVM (Support Vector Machine) a supervised or unsupervised learning algorithm?
+	Supervised
+
+Why is SVM such a powerful classification method?
+	It find the best plane the seperates all data points from one class to others.
+
+What are 3 disadvantages of SVMs?
+	High Training time
+	Very picky, has to have very clean, differentiated data
+	doesnt provide probability estimates
+
+What is the time complexity of SVM?
+	O(n3)
+What is it for Logistic Regression?
+	O(d)
+
+Explain feature importance for the Random Forest algorithm?
+
+When examining feature importance, what is Gini impurity or information gain?
+
+SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model, what is it and how does it work?
+	Its a method of explaining the output of machine learning models using the game theory concept. it calculates the contribution of each feature to the end result prediction
